@@ -11,3 +11,4 @@ testing authors and contributors
 + from sunny
 
 update 3
+author excluded but mentioned in metadata
