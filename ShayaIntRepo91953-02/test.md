@@ -13,3 +13,4 @@ update 3
 author excluded but mentioned in metadata
 
 + author NOT excluded and NOT mentioned in metadata
++ author excluded and NOT mentioned in metadata
