@@ -36,7 +36,10 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {"contributors_to_exclude": [
+     "sharanya-rao"
+      ]
+     },
     "fileMetadata": {},
     "template": [],
     "dest": "ShayaIntRepo91953-02",
