@@ -17,3 +17,4 @@ author excluded but mentioned in metadata
 + contributor excluded and author NOT mentioned in metadata
 + updates
 + more updates: no exclusion and no author metadata
++ exclude contributor and no author metadata
