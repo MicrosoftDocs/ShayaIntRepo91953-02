@@ -1,6 +1,7 @@
 ---
 title: "About Office 365 admin roles"
 ms.topic: overview
+author: sharanya-rao
 description: "Admin roles map to business functions and give permissions to do specific tasks in the admin center. For example, the Service admin opens support tickets with Microsoft.."
 ---
 
@@ -26,3 +27,6 @@ author excluded but mentioned in metadata
 + no exclusion, no metadata
 + exclusion, no metadata
 + exclude contributor, no metadata
+
+
++ test 3
