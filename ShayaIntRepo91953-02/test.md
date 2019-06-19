@@ -20,3 +20,6 @@ author excluded but mentioned in metadata
 + more updates: no exclusion and no author metadata
 + exclude contributor and no author metadata
 + update now
+
+
++ test 2
