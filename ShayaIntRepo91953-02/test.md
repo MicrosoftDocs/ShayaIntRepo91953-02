@@ -25,3 +25,4 @@ author excluded but mentioned in metadata
 + author excluded
 + no exclusion, no metadata
 + exclusion, no metadata
++ exclude contributor, no metadata
