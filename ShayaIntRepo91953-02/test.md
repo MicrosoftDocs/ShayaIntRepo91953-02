@@ -33,3 +33,4 @@ author excluded but mentioned in metadata
 + with exclude and metadata
 + no exclude, no metadata
 + has exclude, no metadata
++c. excluded, no metadata
